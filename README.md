@@ -24,15 +24,11 @@ This project analyzes two primary datasets:
 
 ```
 ├── Trading_analysis.ipynb          # Main Jupyter notebook with analysis
-├── Content.txt                     # Project description
-├── fear_greed_index.csv            # Market sentiment data
-├── historical_data.csv             # Raw trader data
 ├── features_daily_acct_sym.csv     # Features aggregated by account & symbol
 ├── features_daily_bucket.csv       # Features aggregated by sentiment bucket
 ├── features_daily.csv              # Daily aggregated features
 ├── trades_with_sentiment.csv       # Trades matched with sentiment data
 ├── README.md                       # This file
-└── .gitignore                      # Git ignore rules
 ```
 
 ## Data Files
