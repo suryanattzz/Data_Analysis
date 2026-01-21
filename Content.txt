@@ -1,0 +1,9 @@
+You will have to work with two primary datasets:
+1. Bitcoin Market Sentiment Dataset(fear_greed_index.csv)
+o Columns: Date, Classification (Fear/Greed) 
+2. Historical Trader Data from Hyperliquid(historical_data.csv)
+o Columns include: account, symbol, execution price, size, side, time, 
+start position, event, closedPnL, leverage, etc.
+Your objective is to explore the relationship between trader performance and market 
+sentiment, uncover hidden patterns, and deliver insights that can drive smarter trading 
+strategies.
