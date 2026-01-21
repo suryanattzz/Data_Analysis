@@ -45,11 +45,13 @@ Thumbs.db
 # Environment variables
 .env
 .env.local
+.venv
 
 # Data files (optional - uncomment if you want to exclude CSVs from git)
 fear_greed_index.csv
 historical_data.csv
-context.txt
+Content.txt
+.gitignore
 
 # Temporary files
 *.tmp
